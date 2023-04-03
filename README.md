@@ -1,6 +1,6 @@
 # Score-Recorder
-#EduCoder实践项目-计分器
-#HUST-Digital_Logic
+# EduCoder实践项目-计分器
+# HUST-Digital_Logic
 
 /test/..                各关卡测试用电路
 
